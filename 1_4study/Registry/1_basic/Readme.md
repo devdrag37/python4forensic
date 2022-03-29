@@ -1,3 +1,5 @@
+# Exercise: Registry Key/Value access
+
 ## Tools & Libraries
 ### Related Tools:
 - Registry Explorer: https://ericzimmerman.github.io/#!index.md
