@@ -1,4 +1,4 @@
-# Exercise: Registry Key/Value access
+# Learn: Registry Key/Value access
 
 ## Tools & Libraries
 ### Related Tools:
