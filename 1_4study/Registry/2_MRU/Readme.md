@@ -1,4 +1,15 @@
-forensics-accessing-the-windows-registry-with-python-f32e138691b0
+# LEARNING: MRU Registry
+
+## Related Tools & Libraries
+
+### Registry Explorer
+- Registry viewer: https://ericzimmerman.github.io
+
+### Hive file copy tools
+- RawCopy: https://github.com/jschicht/RawCopy
+
+### Python Registry Library
+- Access to live windows registry(winreg): https://python.plainenglish.io/digital-forensics-accessing-the-windows-registry-with-python-f32e138691b0
 - Shell Item parser(libfwsi project): https://github.com/libyal/libfwsi
 
 ### Windows Installer for Python libregf, libfwsi library
