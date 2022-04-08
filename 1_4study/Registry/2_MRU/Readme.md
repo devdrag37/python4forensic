@@ -1,16 +1,4 @@
-# LEARNING: MRU Registry
-
-## Related Tools & Libraries
-
-### Registry Explorer
-- Registry viewer: https://ericzimmerman.github.io
-
-### Hive file copy tools
-- RawCopy: https://github.com/jschicht/RawCopy
-
-### Python Registry Library
-- Access to live windows registry(winreg): https://python.plainenglish.io/digital-forensics-accessing-the-windows-registry-with-python-f32e138691b0
-- Access to hive file(libregf project): https://github.com/libyal/libregf
+forensics-accessing-the-windows-registry-with-python-f32e138691b0
 - Shell Item parser(libfwsi project): https://github.com/libyal/libfwsi
 
 ### Windows Installer for Python libregf, libfwsi library
@@ -20,7 +8,6 @@
 - dfwinreg: https://github.com/log2timeline/dfwinreg/tree/main/test_data
 
 ### Related Documents
-- pyregf(libregf): https://github.com/libyal/libregf/wiki/Python-development
 - pyfwsi: https://github.com/libyal/libfwsi/wiki/Python-development
 - Shell Item List format: https://github.com/libyal/libfwsi/blob/main/documentation/Windows%20Shell%20Item%20format.asciidoc
 
